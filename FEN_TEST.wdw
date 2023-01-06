@@ -33,6 +33,28 @@ window :
       -
         type : 161
         enabled : false
+  -
+    name : SAI_SansNom1
+    identifier : 0x23b8296ba317a994
+    internal_properties : BwAAAAcAAAArwsg6fyZJppoJqNIb10gNSgPQyOxumAJACu8imfizxe7bHjK4P5xItQNW/zIJ1QoMsdx9wFr1vVv39i/vEhEJ42FFkEkzrm/uOuh6NbLOGiuPNU8+Ph7TBjKdX9lCENGGJZuUTpDg92RSGzlko9qRZfPzaxbnd3WpXLOeVCo/0SsBaHdhi6SXdecErZvmSSUVf5ZmoaaqOu/dE5Ei+0QSOzLa4K5lGABT+okb68kDwrOEIDenVleFZsJWaww1/qM5cSl6bIjEgzoCe5Zx1dH+Qmh4UKq9At2NnxYN8L142icJnr8Xzy5mwi0ibb4HxglpMyo+cHnf7V4EAMCccTXjka6ddQceOSOP1z2eJPAcjAhdzQ4KrCfj5ANqKSzTx+NXQ8uM673+N+ZpngMSd7/+CEeu3MzVQs8jXL9S+d+JjZ8CAMog5dZHJJcIVgvJC5mmkmagYh9Q78zMTgOXRL+7jKOjm+mjXx1EZyRQ4Rpg5Odh7679xkc0g2xbdS0wzpLkHAQmp0H8kALOFGrLXfta/Vx9Dnb6E+kEQ9n6W8GCvzHJSQtr/923ya5oPV0fI+uZsY0cxAi9QcaHEag8C/HWw5DkUyNjQs5uTE8MO7GRcvA6uGwFRloLAomK81mu0sPmatJak5UPiXneMPN7KDpTxp4q2nMOc+nL1gdWhb98KBXCfhll/LXvbaS1wDLQbYOmDlAAUIlKJiYDU93Ydr1QhV5xaBDiW2/UgnBL4YMo5rG5+V5QA7HHgvNXAmAS687EgJ12SH/0LWFc2iTZ/oefsxieeqU+yjek8FdIc5aa/DVzfSunK8A9mrYS0m41iY32zEoJj00LD+bfzGsZzuP3vSj8b7cx93fpwfim39ysGl4Z1lgr8QT13kJ8KrGig/0XEeyKzjxrP82g/L8GpdIOwpjDK7hRCzqB1iC3NRK9D9EhVPBA+f18/enYX3FTbSE0Gs8XQoXaRqjYW+Qio8P0mcpEL2sRdBKuKp4FwKQG5JkuooS0EqUx6aKalacF1E9LT/OB23sIlXezU/e7pWs7ryW6LldWEzgSRkZGe8+GOqrg+wvI7uvg25z+rnzT1wLPnk666uDJ0CC1T3RiiPRfd8UShqI2WINkd30oE1wSfQR0id66w8HAEp24xWnRpGTWNtKdHr1Zq5Mzqc4IF2ivrHppYntahE/rU2Vp/PVmbAb93XzTmZ59bd23TjpxeZLPbGMejR/ZN8GND0Pn1ktB4dX0mGw=
+    properties :
+     x : 65
+     y : 204
+     width : 204
+     height : 25
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
